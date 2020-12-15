@@ -1,0 +1,10 @@
+{
+	"name": "gore",
+	"version": "1.1.0",
+	"title": "Ultra Violence",
+	"author": "GeneralEcchi",
+	"description": "Originally developed by ownlyme, I've updated it to 1.1 with new splatter and splash effect from the Source Engine
+Special thanks to Honktown and other members in the Factorio discord server for helping with the programming",
+	"factorio_version": "1.1",
+	"dependencies": ["?Wave_Defense_Unlimited", "?0_16_graphics"]
+}

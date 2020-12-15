@@ -1,0 +1,73 @@
+1.1.0
+- Updated for 1.1
+- Reworked texture scale
+- New splatter decal and splash effect from Source
+- Increased alien gibs and bloodspray
+- Added splatter noises upon dying for all alien unit/building
+- Added more debris for rock destruction and explosions
+- Replaced weapons sounds
+- Grenade now have bigger explosion sprites
+- Added smoke puff effect for bullet impact
+ ---------------------------------------------------------------------------
+
+0.18.7
+- Added event filter to on_entity_damaged
+- On_entity_damaged blood amount is now dynamic
+- Added setting to disable on_entity_damaged bleeding (vanilla game also has some damage-bleeding)
+
+0.18.6
+- Added settings to enable/disable the custom blood splashes and decals when a unit dies, since the new 0.18 particle emitters look pretty convincing.
+- Added full support for my mod "0.16 graphics" 
+- Fixed rainbow particles (kinda)
+
+0.17.5
+- Reworked purple, green and puke presets to look more like in the 0.16 screenshots
+
+0.17.4
+- Accidentally changed the color of the blood puddle in 0.17.3
+- Blood puddle is now enabled by default
+- Darkened (-7%) splatter, explosions & puddles to look more like in 0.16 (somehow they changed the color mapping in 0.17...)
+- Additionally darkened (-9%) and desaturated (-3%) the rainbow splatter and explosions to fit better into the game
+
+0.17.3
+- Added an option to hide the blood puddle
+- Darkened and reduced transparency of the decals on the corpses
+
+0.17.2
+- Added support for Wave Defense Unlimited
+- Improved Render Layer of the corpses
+
+0.17.1
+- Updated for 0.17
+
+0.0.12
+- Merged red-blood and custom colors versions
+- Added rainbow blood
+- Added more settings and presets
+- Added compatibility with "Z Adventure"
+
+0.0.11
+- identical to 0.0.9 except that it only works with red blood
+
+0.0.9
+- custom blood colors
+
+0.0.7
+- added higher resolution blood particles
+- polishing
+
+0.0.6
+- added bleeding on bullet/laser damage
+- added bloody worm corpses
+- added a new blood effect
+
+0.0.5
+- vanilla blood particles recolored
+- bloody corpses
+- more settings in the data.lua
+
+0.0.4
+- blood stays on the floor
+
+0.0.3
+- Added low-res versions
